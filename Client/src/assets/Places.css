@@ -1,0 +1,12 @@
+.row .card-hover {
+    transition: all 0.4s ease-in-out;
+  }
+.card-hover:hover{
+  scale: 1.1;
+  transform: translate(-5px);
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 8px 30px 0px,
+    rgba(0, 0, 0, 0.09) 0px 12px 30px 0px;
+}
+.custom-card {
+  height: 100%; 
+}

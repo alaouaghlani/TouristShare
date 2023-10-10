@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("./font/Nunito-VariableFont_wght.ttf");
+}
+.App { 
+  font-family: "Nunito";
+}
+
+
